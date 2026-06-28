@@ -47,8 +47,14 @@ olarak sundu
   * **7. İş Yükleri (Workloads)**
       * 7.1. Pods
         * 7.1.1. Pod Nedir?
-
-
+      * 7.2. Deployment
+      * 7.3. Services
+        * 7.3.1. Kubernetes'te Servisler
+        * 7.3.2. Servis Türleri
+  * **Liveness Probe**
+  * **Readiness Probe**
+  * **Resource Limits**
+    
 
 
 
