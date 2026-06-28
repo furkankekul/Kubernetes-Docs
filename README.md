@@ -41,6 +41,14 @@ olarak sundu
       * 5.2.1. kubelet
       * 5.2.2. kube-proxy
       * 5.2.3. container runtime
+  * **6. Konteynerler (Containers)**
+      * 6.1. Konteyner İmajları (Container İmages)
+      * 6.2. Konteyner Çalışma Zamanı (Container Runtime)
+  * **7. İş Yükleri (Workloads)**
+      * 7.1. Pods
+        * 7.1.1. Pod Nedir?
+
+
 
 
 
