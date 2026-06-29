@@ -51,10 +51,13 @@ olarak sundu
       * 7.3. Services
         * 7.3.1. Kubernetes'te Servisler
         * 7.3.2. Servis Türleri
+      * 7.4. Secret
+      * 7.5. ConfigMap
   * **Liveness Probe**
   * **Readiness Probe**
   * **Resource Limits**
-    
+  * **Node Affinity**
+  * **Pod Affinity**    
 
 
 
