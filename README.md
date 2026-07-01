@@ -53,6 +53,11 @@ olarak sundu
         * 7.3.2. Servis Türleri
       * 7.4. Secret
       * 7.5. ConfigMap
+      * 7.6. DeamonSet
+      * 7.7. Volume
+        * 7.7.1. Volume'lerin Önemi
+        * 7.7.2. Volume'ler Nasıl Çalışır
+      * 7.8. Persistent Volume
   * **Liveness Probe**
   * **Readiness Probe**
   * **Resource Limits**
