@@ -58,6 +58,18 @@ olarak sundu
         * 7.7.1. Volume'lerin Önemi
         * 7.7.2. Volume'ler Nasıl Çalışır
       * 7.8. Persistent Volume
+        * 7.8.1. Bir Volume ve Claim'in Yaşam Döngüsü
+          * Provisioning (Kaynak Sağlama)
+          * Binding (Bağlama)
+          * Using (Kullanım)
+          * Kullanımdaki Depolama Nesnesi Koruması
+          * Recaliming (Geri Alma)
+            * Retain (Tutmak)
+            * Delete (Silmek) 
+          * PersistentVolume Rezerv Etme
+          * Erişim Modları
+          * Selector (Seçici)
+          * Class (Sınıf)
   * **Liveness Probe**
   * **Readiness Probe**
   * **Resource Limits**
