@@ -70,6 +70,15 @@ olarak sundu
           * Erişim Modları
           * Selector (Seçici)
           * Class (Sınıf)
+      * 7.9. Storage Classes (Depolama Sınıfları)
+        * 7.9.1. StorageClass Objeleri
+        * 7.9.2. Default StorageClass
+        * 7.9.3. Provisioner (Sağlayıcı)
+        * 7.9.4. Reclaim Policy (Geri alma politikası)
+        * 7.9.5. Volume Expansion (Birim Genişletme)
+        * 7.9.6. Mount Options (Bağlama Seçenekleri)
+        * 7.9.7. Volume Binding Mode (Birim Bağlama Modu)
+        * 7.9.8. Parameters (Parametreler)
   * **Liveness Probe**
   * **Readiness Probe**
   * **Resource Limits**
