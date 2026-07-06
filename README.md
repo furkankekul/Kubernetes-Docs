@@ -51,6 +51,7 @@ olarak sundu
       * 7.3. Services
         * 7.3.1. Kubernetes'te Servisler
         * 7.3.2. Servis Türleri
+        * 7.3.3. Headless Service
       * 7.4. Secret
       * 7.5. ConfigMap
       * 7.6. DeamonSet
@@ -79,6 +80,9 @@ olarak sundu
         * 7.9.6. Mount Options (Bağlama Seçenekleri)
         * 7.9.7. Volume Binding Mode (Birim Bağlama Modu)
         * 7.9.8. Parameters (Parametreler)
+      * 7.10. StatefulSets
+        * 7.10.1. StatefulSet Kullanımı
+        * 7.10.2. Kısıtlamalar  
   * **Liveness Probe**
   * **Readiness Probe**
   * **Resource Limits**
