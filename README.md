@@ -82,7 +82,11 @@ olarak sundu
         * 7.9.8. Parameters (Parametreler)
       * 7.10. StatefulSets
         * 7.10.1. StatefulSet Kullanımı
-        * 7.10.2. Kısıtlamalar  
+        * 7.10.2. Kısıtlamalar 
+      * 7.11. Authentication
+      * 7.12. Role-Based Access Control
+      * 7.13. Service Account
+      * 7.14. Ingress 
   * **Liveness Probe**
   * **Readiness Probe**
   * **Resource Limits**
