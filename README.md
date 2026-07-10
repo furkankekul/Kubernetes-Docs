@@ -83,10 +83,16 @@ olarak sundu
       * 7.10. StatefulSets
         * 7.10.1. StatefulSet Kullanımı
         * 7.10.2. Kısıtlamalar 
-      * 7.11. Authentication
-      * 7.12. Role-Based Access Control
-      * 7.13. Service Account
-      * 7.14. Ingress 
+      * 7.11. Ingress 
+        * 7.11.1. Terimler
+        * 7.11.2 Ingress Nedir?
+        * 7.11.3. Ön Koşullar 
+        * 7.11.4 Ingress Kaynağı
+          * 7.11.4.1. Ingress Kuralları
+          * 7.11.4.2. DefaultBackend
+          * 7.11.4.3. ResourceBackend
+          * 7.11.4.4. Path Types
+        * 7.11.5 TLS     
   * **Liveness Probe**
   * **Readiness Probe**
   * **Resource Limits**
